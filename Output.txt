@@ -1,0 +1,28 @@
+YF.download() has changed argument auto_adjust default to True
+[*********************100%***********************] 1 of 1 completed
+/usr/local/lib/python3.11/dist-packages/keras/src/layers/rnn/rnn.py:200: UserWarning: Do not pass an `input_shape`/`input_dim` argument to a layer. When using Sequential models, prefer using an `Input(shape)` object as the first layer in the model instead.
+super().__init__(**kwargs)
+Loaded data: 1257 days
+Epoch 1/10
+30/30 ━━━━━━━━━━━━━━━━━━━━ 6s 52ms/step - loss: 0.0696
+Epoch 2/10
+30/30 ━━━━━━━━━━━━━━━━━━━━ 2s 51ms/step - loss: 0.0054
+Epoch 3/10
+30/30 ━━━━━━━━━━━━━━━━━━━━ 2s 54ms/step - loss: 0.0032
+Epoch 4/10
+30/30 ━━━━━━━━━━━━━━━━━━━━ 3s 71ms/step - loss: 0.0026
+Epoch 5/10
+30/30 ━━━━━━━━━━━━━━━━━━━━ 2s 52ms/step - loss: 0.0027
+Epoch 6/10
+30/30 ━━━━━━━━━━━━━━━━━━━━ 2s 50ms/step - loss: 0.0024
+Epoch 7/10
+30/30 ━━━━━━━━━━━━━━━━━━━━ 2s 51ms/step - loss: 0.0022
+Epoch 8/10
+30/30 ━━━━━━━━━━━━━━━━━━━━ 2s 51ms/step - loss: 0.0019
+Epoch 9/10
+30/30 ━━━━━━━━━━━━━━━━━━━━ 2s 56ms/step - loss: 0.0019
+Epoch 10/10
+30/30 ━━━━━━━━━━━━━━━━━━━━ 3s 90ms/step - loss: 0.0019
+8/8 ━━━━━━━━━━━━━━━━━━━━ 1s 62ms/step
+
+RMSE: 9.12
